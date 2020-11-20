@@ -17,3 +17,7 @@ Covers the upper bound and lower bounds: worst case, average case, best case
 
 Direct Way of finding c:
 - Take the constant on the highest leading term and add 1
+
+## Omega Notation
+
+Covers the lowerbound
