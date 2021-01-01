@@ -140,3 +140,13 @@ void fun(int n) {
 
 T(n) = 2T(n/2) + (-)(n)
 T(1) = c
+
+### Space Complexity
+
+Order of growth of memory (or RAM) space in terms of input size.
+
+**Auxiliary Space**: Order of growth of extra space on temporary space in terms of input size.
+
+- auxiliary space is more important then space complexity because it determines the extra space needed for the algorithm while the space complexity is what ever is returned back which is usually just _(-)n_
+
+-recursive algorithms take space as well, because of the created state call stacks needed.
